@@ -11,7 +11,7 @@
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Movin Dsouza!
 
-Full Stack Developer | GenAI & Agentic AI Engineer
+Full Stack Developer | GenAI & Agentic AI System Enthusiasts 
 <br />
 
 <!--Start Intro-->
